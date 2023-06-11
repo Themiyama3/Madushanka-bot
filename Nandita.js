@@ -36,7 +36,7 @@ function title() {
       console.log(chalk.yellow(`\n\n               ${chalk.bold.yellow(`[ ${botname} ]`)}\n\n`))
       console.log(color(`< ================================================== >`, 'cyan'))
 	console.log(color(`\n${themeemoji} YT CHANNEL: Deepak`,'magenta'))
-console.log(color(`${themeemoji} GITHUB: DGDEEPAK `,'magenta'))
+console.log(color(`${themeemoji} GITHUB: Themiyama`,'magenta'))
 console.log(color(`${themeemoji} WA NUMBER: ${owner}`,'magenta'))
 console.log(color(`${themeemoji} CREDIT: ${wm}\n`,'magenta'))
 }
